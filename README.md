@@ -10,5 +10,4 @@ qrcode: pip install qrcode
 cv2: pip install opencv-python
 
 
-Baixar todos os arquivos e inserilos na mesma pasta e executar apenas o MAIN.PY este irá
-charmar as funções.
+Clonar o repositório, abrir usando o vscode e executar o main.py
